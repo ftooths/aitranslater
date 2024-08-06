@@ -1,0 +1,29 @@
+{
+    "gpt-4o": {
+        "api_key": "",
+        "output_token_magnification": "1.6",
+        "batch_tokens": "900",
+        "temperature": "0.2",
+        "frequency_penalty": "0",
+        "presence_penalty": "0",
+        "top_p": "1",
+        "systemPrompt": "translate as korean"
+    },
+    "claude-3-5-sonnet": {
+        "api_key": "",
+        "output_token_magnification": "1.7",
+        "batch_tokens": "900",
+        "temperature": "0.2",
+        "top_p": "0.8",
+        "systemPrompt": "translate as korean",
+        "top_k": "0.2"
+    },
+    "gemini-1.5-pro": {
+        "api_key": "",
+        "output_token_magnification": "1.7",
+        "temperature": "0.7",
+        "batch_tokens": "900",
+        "top_p": "1",
+        "systemPrompt": "translate as korean"
+    }
+}
